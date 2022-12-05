@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NextJS / tRPC**
 
-- 💬 Ask me about **ReactJS / NodeJS (;_;) / Typescript**
+- 💬 I enjoy discussions about **ReactJS / NodeJS (;_;) / Typescript**
 
-- 📫 How to reach me **gholami.arshia@outlook.com**
+- 📫 You can reach me at **gholami.arshia@outlook.com**
 
 - ⚡ Fun fact about me **I hate dynamic languages (>_<)**
 
