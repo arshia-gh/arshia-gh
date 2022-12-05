@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshia-gh&label=Profile%20views&color=0e75b6&style=flat" alt="arshia-gh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshia-gh" alt="arshia-gh" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS / tRPC**
 
 - 💬 I enjoy discussions about **ReactJS / NodeJS (;_;) / Typescript**
