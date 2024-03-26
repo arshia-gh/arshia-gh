@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshia-gh&label=Profile%20views&color=0e75b6&style=flat" alt="arshia-gh" /> </p>
 
-- 🌱 I’m currently learning **NextJS / tRPC**
+- 💬 I enjoy discussions about **Food / Food / Food**
 
-- 💬 I enjoy discussions about **ReactJS / NodeJS (;_;) / Typescript**
-
-- 📫 You can reach me at **gholami.arshia@outlook.com**
-
-- ⚡ Fun fact about me **I hate dynamic languages (>_<)**
+- ⚡ Fun fact about me **I hate dynamic languages (>_<)** (probably just a skill issue)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
